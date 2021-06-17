@@ -16,7 +16,7 @@ License:                        GPLv3+
 
 Source10:                       %{app}.local.yml
 
-Requires:                       elasticsearch
+Requires:                       elasticsearch ext-system
 
 %description
 META-package for install and configure Elasticsearch.
