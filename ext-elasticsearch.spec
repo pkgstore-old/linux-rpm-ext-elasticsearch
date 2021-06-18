@@ -12,7 +12,9 @@ Name:                           ext-elasticsearch
 Version:                        1.0.2
 Release:                        %{release_prefix}%{?dist}
 Summary:                        META-package for install and configure Elasticsearch
-License:                        GPLv3+
+License:                        MIT
+Vendor:                         Package Store <https://pkgstore.github.io>
+Packager:                       Kitsune Solar <kitsune.solar@gmail.com>
 
 Source10:                       %{app}.local.yml
 
