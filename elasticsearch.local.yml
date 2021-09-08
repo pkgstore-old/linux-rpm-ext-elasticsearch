@@ -30,11 +30,11 @@ node.name: es_node_001
 #
 # Path to directory where to store the data (separate multiple locations by comma):
 #
-path.data: /home/storage_01/data_02/elasticsearch/data
+path.data: /home/storage.01/data.02/elasticsearch/data
 #
 # Path to log files:
 #
-path.logs: /home/storage_01/data_02/elasticsearch/logs
+path.logs: /home/storage.01/data.02/elasticsearch/logs
 #
 # ----------------------------------- Memory -----------------------------------
 #
